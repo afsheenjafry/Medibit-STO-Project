@@ -1,0 +1,2 @@
+# Medibit-STO-Project
+Medibit STO Project is building a blockchain-based platform connecting consultant doctors &amp; patients in niche use case. Millions of patients are misdiagnosed or undiagnosed for their medical conditions across the globe. Therefore, Medibit Dapp/platform will connect patients seeking 2nd opinion on their medical diagnostics with consultative healthcare practitioners, globally.  
